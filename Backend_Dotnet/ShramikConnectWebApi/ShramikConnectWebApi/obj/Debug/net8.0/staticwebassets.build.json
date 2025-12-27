@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "9MceQm0KLwx2xLCZWinsbQVo/jETXJXBNPbth8Z5VQM=",
+  "Source": "ShramikConnectWebApi",
+  "BasePath": "_content/ShramikConnectWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
