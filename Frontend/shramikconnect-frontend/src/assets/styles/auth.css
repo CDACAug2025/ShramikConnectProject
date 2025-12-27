@@ -1,0 +1,65 @@
+.auth-card {
+  border-radius: 16px;
+  overflow: hidden;
+  width: 100%;
+}
+
+.auth-shadow {
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.12);
+}
+
+/* Sidebar */
+.auth-sidebar {
+  background: linear-gradient(135deg, #0d6efd, #0a58ca);
+  color: white;
+  padding: 2.5rem 2rem;
+  min-height: 100%;
+}
+
+.auth-sidebar h4 {
+  font-weight: 600;
+  font-size: 1.8rem;
+}
+
+.auth-sidebar p {
+  font-size: 0.95rem;
+  line-height: 1.5;
+  opacity: 0.95;
+}
+
+.auth-sidebar ul {
+  padding-left: 1rem;
+}
+
+.auth-sidebar li {
+  margin-bottom: 0.75rem;
+  font-size: 0.95rem;
+}
+
+/* FORM SIDE */
+.auth-form {
+  padding: 2.5rem;
+}
+
+/* ===== MOBILE FIXES ===== */
+@media (max-width: 768px) {
+  .auth-form {
+    padding: 1.5rem;
+  }
+
+  .auth-card {
+    border-radius: 12px;
+  }
+}
+
+/* ===== SMALL MOBILE ===== */
+@media (max-width: 480px) {
+  .auth-form h3 {
+    font-size: 1.5rem;
+  }
+
+  .auth-form button {
+    font-size: 1rem;
+    padding: 0.6rem;
+  }
+}

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KzO/AdzMI28=",
+  "dgSpecHash": "rJrr5IITong=",
   "success": true,
-  "projectFilePath": "/Users/harshaltarmale/RiderProjects/ShramikConnectWebApi/ShramikConnectWebApi/ShramikConnectWebApi.csproj",
+  "projectFilePath": "/Users/harshaltarmale/Projects/Final Project/ShramikConnectProject/Backend_Dotnet/ShramikConnectWebApi/ShramikConnectWebApi/ShramikConnectWebApi.csproj",
   "expectedPackageFiles": [
     "/Users/harshaltarmale/.nuget/packages/azure.core/1.47.1/azure.core.1.47.1.nupkg.sha512",
     "/Users/harshaltarmale/.nuget/packages/azure.identity/1.14.2/azure.identity.1.14.2.nupkg.sha512",

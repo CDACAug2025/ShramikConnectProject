@@ -3709,11 +3709,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/harshaltarmale/RiderProjects/ShramikConnectWebApi/ShramikConnectWebApi/ShramikConnectWebApi.csproj",
+      "projectUniqueName": "/Users/harshaltarmale/Projects/Final Project/ShramikConnectProject/Backend_Dotnet/ShramikConnectWebApi/ShramikConnectWebApi/ShramikConnectWebApi.csproj",
       "projectName": "ShramikConnectWebApi",
-      "projectPath": "/Users/harshaltarmale/RiderProjects/ShramikConnectWebApi/ShramikConnectWebApi/ShramikConnectWebApi.csproj",
+      "projectPath": "/Users/harshaltarmale/Projects/Final Project/ShramikConnectProject/Backend_Dotnet/ShramikConnectWebApi/ShramikConnectWebApi/ShramikConnectWebApi.csproj",
       "packagesPath": "/Users/harshaltarmale/.nuget/packages/",
-      "outputPath": "/Users/harshaltarmale/RiderProjects/ShramikConnectWebApi/ShramikConnectWebApi/obj/",
+      "outputPath": "/Users/harshaltarmale/Projects/Final Project/ShramikConnectProject/Backend_Dotnet/ShramikConnectWebApi/ShramikConnectWebApi/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/harshaltarmale/.nuget/NuGet/NuGet.Config"

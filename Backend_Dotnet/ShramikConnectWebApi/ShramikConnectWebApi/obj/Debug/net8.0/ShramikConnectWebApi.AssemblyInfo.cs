@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ShramikConnectWebApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b9ac2520b924d439447abc0ddb0d67bd9ebbc2d")]
 [assembly: System.Reflection.AssemblyProductAttribute("ShramikConnectWebApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ShramikConnectWebApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
